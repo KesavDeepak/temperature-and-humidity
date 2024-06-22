@@ -73,5 +73,3 @@ void loop() {
   delay(2000); // Wait for 2 seconds before updating the values
 }
 ```
-### Simulation and Output:-
-<video controls src="WhatsApp Video 2024-06-22 at 23.54.32_77e0bc7e.mp4" title="output"></video>
